@@ -33,6 +33,5 @@ For example, using `https://assets.zeith.org/logos/hammer-lib.png` should show u
 
 ![HammerLib Logo](https://assets.zeith.org/logos/hammer-lib.png)
 
-##
 ## For any questions or further information, please reach out to us on our Discord server!
 [![Server Invite](https://ds.zeith.org/cards/dev.png)](https://ds.zeith.org/dev)
