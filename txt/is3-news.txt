@@ -1,0 +1,19 @@
+§4Jun 13, 2023:§r
+1.20.1 version of Improvable Skills is available on CurseForge and Modrinth!
+
+§4Jun 10, 2023:§r
+The mod has been ported over to 1.20!
+New:
+- Mob Repellent (skill): pushes hostile entities away from you
+- Cowboy (ability): allows riding any entity (except bosses, and any entities included in the entity tag)
+
+§4Jun 8, 2023:§r
+The mod is currently being updated to 1.20.0; Please hold tight!
+
+§4Oct 24, 2022:§r
+Good news! The mod has been ported for 1.19.2. This means that it is incredibly close to it's release day!
+However, before releasing it, I am adding couple new things into the mod, and bringing one skill back!
+
+§4Oct 23, 2022:§r
+Hello everyone! I am working on a port for Improvable Skills for Minecraft 1.19.2.
+The progress is going quite well, you can see the progress over on my Twitter: @Zeitheron
